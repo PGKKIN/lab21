@@ -43,7 +43,7 @@ int main(){
 			playerWin();
 			break; 
 		}
-		
+		 
 		turn_count++;
 	}
 	return 0;
